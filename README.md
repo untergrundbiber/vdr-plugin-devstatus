@@ -1,1 +1,1 @@
-# vdr-plugin-devstatus compatible VDR 2.2.0
+# vdr-plugin-devstatus for VDR 2.2.0
