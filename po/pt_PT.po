@@ -1,0 +1,130 @@
+# VDR plugin language source file.
+# Copyright (C) 2007 Klaus Schmidinger <kls@cadsoft.de>
+# This file is distributed under the same license as the VDR package.
+# Paulo Lopes <pmml@netvita.pt>, 2001
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VDR 1.5.7\n"
+"Report-Msgid-Bugs-To: <see README>\n"
+"POT-Creation-Date: 2016-07-11 16:35+0200\n"
+"PO-Revision-Date: 2007-08-18 21:11+0200\n"
+"Last-Translator: Paulo Lopes <pmml@netvita.pt>\n"
+"Language-Team: <vdr@linuxtv.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Status of dvb devices"
+msgstr ""
+
+msgid "Device status"
+msgstr ""
+
+msgid "satellite card"
+msgstr ""
+
+msgid "cable card"
+msgstr ""
+
+msgid "terrestrial card"
+msgstr ""
+
+msgid "unknown cardtype"
+msgstr ""
+
+#, c-format
+msgid "frequency: %d MHz, signal: %d%%, s/n: %d%%"
+msgstr ""
+
+#, c-format
+msgid "no signal information available (rc=%d)"
+msgstr ""
+
+msgid "device with decoder"
+msgstr ""
+
+msgid "primary device"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "-- Live"
+msgstr ""
+
+msgid "currently no recordings"
+msgstr ""
+
+#. TRANSLATORS: printf string for channel line
+#, c-format
+msgid "%5d  %s %s  %s  %s%s%s"
+msgstr ""
+
+#. TRANSLATORS: abbr. for tv-channels
+msgid "t"
+msgstr ""
+
+#. TRANSLATORS: abbr. for video only-channels
+msgid "v"
+msgstr ""
+
+#. TRANSLATORS: abbr. for radio-channels
+msgid "r"
+msgstr ""
+
+#. TRANSLATORS: abbr. for no signal-channels
+msgid "-"
+msgstr ""
+
+#. TRANSLATORS: abbr. for live channel
+msgid "+"
+msgstr ""
+
+#. TRANSLATORS: abbr. for crypted channels
+msgid "x"
+msgstr ""
+
+#. TRANSLATORS: abbr. for FTA channels
+msgid " "
+msgstr ""
+
+msgid "no recordings"
+msgstr ""
+
+msgid "recordings"
+msgstr ""
+
+msgid "no strength"
+msgstr ""
+
+msgid "strength"
+msgstr ""
+
+msgid "no channels"
+msgstr ""
+
+msgid "channels"
+msgstr ""
+
+msgid "Refresh display"
+msgstr ""
+
+msgid "Show recordings"
+msgstr ""
+
+msgid "Show signals"
+msgstr ""
+
+msgid "Show channels"
+msgstr ""
+
+msgid "Show channel provider"
+msgstr ""
+
+msgid "List of DVB devices"
+msgstr ""
+
+msgid "Number of concurrent recordings"
+msgstr ""

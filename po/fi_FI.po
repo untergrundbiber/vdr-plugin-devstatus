@@ -1,0 +1,141 @@
+# VDR plugin language source file.
+# Copyright (C) 2007 Klaus Schmidinger <kls@cadsoft.de>
+# This file is distributed under the same license as the VDR package.
+# Hannu Savolainen <hannu@opensound.com>, 2002
+# Jaakko Hyv‰tti <jaakko@hyvatti.iki.fi>, 2002
+# Niko Tarnanen <niko.tarnanen@hut.fi>, 2003
+# Rolf Ahrenberg <rahrenbe@cc.hut.fi>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VDR 1.5.7\n"
+"Report-Msgid-Bugs-To: <see README>\n"
+"POT-Creation-Date: 2016-07-11 16:35+0200\n"
+"PO-Revision-Date: 2008-01-02 21:34+0200\n"
+"Last-Translator: Ville Skytt‰ <ville.skytta@iki.fi>\n"
+"Language-Team: <vdr@linuxtv.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid "Status of dvb devices"
+msgstr "Tallennusten tila"
+
+#, fuzzy
+msgid "Device status"
+msgstr "Kortti"
+
+msgid "satellite card"
+msgstr ""
+
+msgid "cable card"
+msgstr ""
+
+msgid "terrestrial card"
+msgstr ""
+
+msgid "unknown cardtype"
+msgstr ""
+
+#, c-format
+msgid "frequency: %d MHz, signal: %d%%, s/n: %d%%"
+msgstr ""
+
+#, c-format
+msgid "no signal information available (rc=%d)"
+msgstr ""
+
+msgid "device with decoder"
+msgstr "dekooderi"
+
+msgid "primary device"
+msgstr "ensisijainen"
+
+msgid "Device"
+msgstr "Kortti"
+
+msgid "-- Live"
+msgstr ""
+
+msgid "currently no recordings"
+msgstr "ei meneill‰‰n olevia tallennuksia"
+
+#. TRANSLATORS: printf string for channel line
+#, c-format
+msgid "%5d  %s %s  %s  %s%s%s"
+msgstr ""
+
+#. TRANSLATORS: abbr. for tv-channels
+msgid "t"
+msgstr ""
+
+#. TRANSLATORS: abbr. for video only-channels
+msgid "v"
+msgstr ""
+
+#. TRANSLATORS: abbr. for radio-channels
+msgid "r"
+msgstr ""
+
+#. TRANSLATORS: abbr. for no signal-channels
+msgid "-"
+msgstr ""
+
+#. TRANSLATORS: abbr. for live channel
+msgid "+"
+msgstr ""
+
+#. TRANSLATORS: abbr. for crypted channels
+msgid "x"
+msgstr ""
+
+#. TRANSLATORS: abbr. for FTA channels
+msgid " "
+msgstr ""
+
+#, fuzzy
+msgid "no recordings"
+msgstr "Tallennusten tila"
+
+#, fuzzy
+msgid "recordings"
+msgstr "Tallennusten tila"
+
+msgid "no strength"
+msgstr ""
+
+msgid "strength"
+msgstr ""
+
+msgid "no channels"
+msgstr ""
+
+msgid "channels"
+msgstr ""
+
+msgid "Refresh display"
+msgstr ""
+
+#, fuzzy
+msgid "Show recordings"
+msgstr "Tallennusten tila"
+
+msgid "Show signals"
+msgstr ""
+
+msgid "Show channels"
+msgstr ""
+
+msgid "Show channel provider"
+msgstr ""
+
+msgid "List of DVB devices"
+msgstr "DVB-kortit"
+
+msgid "Number of concurrent recordings"
+msgstr "Yht‰aikaisia tallennuksia"
+
+#~ msgid "Recording status"
+#~ msgstr "Tallennusten tila"
